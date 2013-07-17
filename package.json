@@ -1,0 +1,25 @@
+{
+  "author": "Alexandru Vladutu <alexandru.vladutu@gmail.com>",
+  "license": "MIT",
+  "name": "nice-error",
+  "description": "",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alessioalex/nice-error.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "keywords": [
+    "error"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "tap" : "0.4.x"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  }
+}
